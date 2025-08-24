@@ -1,4 +1,3 @@
-# DTSA-5510-Final-Project
 # 📈 DTSA 5510 Final Project
 
 This repository contains documentation for DTSA 5510 Final Project. 
