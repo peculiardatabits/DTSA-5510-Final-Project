@@ -3,12 +3,16 @@
 This repository contains documentation for DTSA 5510 Final Project. 
 
 ---
+
 ## 📝 Overview
-The goal of this project is to apply unsupervised machine learning to five years of historical data to create a risk classification model.
+
+#### The goal of this project is to apply unsupervised machine learning to five years of historical data to create a risk classification model.
+
 ---
 
 ## 📂 Project Files
 📄 [DTSA_5510_Final Project_Report.pdf](./DTSA_5510_Final Project_Report.pdf)
+
 :framed_picture: [DTSA_5510_Final Project_PowerPoint.pdf](./DTSA_5510_Final Project_PowerPoint.pdf)
 
 ---
