@@ -11,7 +11,7 @@ This repository contains documentation for DTSA 5510 Final Project.
 ---
 
 ## 📂 Project Files
-📄 [DTSA_5510_Final Project_Report.pdf](./DTSA_5510_Final Project_Report.pdf)
+📄 [DTSA_5510_Final Project_Report.pdf]([./DTSA_5510_Final Project_Report.pdf](https://github.com/peculiardatabits/DTSA-5510-Final-Project/blob/main/DTSA_5510_Final%20Project_Report.pdf)
 
 :framed_picture: [DTSA_5510_Final Project_PowerPoint.pdf](./DTSA_5510_Final Project_PowerPoint.pdf)
 
